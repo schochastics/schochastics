@@ -67,6 +67,10 @@ width=44 height=51>
 <img src="https://www.mr.schochastics.net/project/networkdata/featured-hex.png"
 width=44 height=51>
 </a>
+<a href="https://github.com/schochastics/PSAWR">
+<img src="https://www.mr.schochastics.net/project/PSAWR/featured-hex.png"
+width=44 height=51>
+</a>
 <a href="https://github.com/schochastics/netUtils">
 <img src="https://www.mr.schochastics.net/project/netUtils/featured-hex.png"
 width=44 height=51>
