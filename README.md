@@ -86,5 +86,5 @@ width=44 height=51>
 </div>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=schochastics&show_icons=true&theme=merko" alt="Davids GitHub stats">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=schochastics&show_icons=true&theme=merko" alt="Davids GitHub stats">-->
 </div>
