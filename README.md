@@ -78,6 +78,10 @@ width=44 height=51>
 <img src="https://www.mr.schochastics.net/project/netUtils/featured-hex.png"
 width=44 height=51>
 </a>
+<a href="https://github.com/schochastics/webtrackR">
+<img src="https://github.com/schochastics/webtrackR/blob/main/man/figures/logo.png"
+width=44 height=51>
+</a>
 <a href="https://github.com/mbojan/rgraph6">
 <img src="https://www.mr.schochastics.net/project/rgraph6/featured-hex.png"
 width=44 height=51>
@@ -85,7 +89,6 @@ width=44 height=51>
 <a href="https://github.com/chainsawriot/rang">
 <img src="https://github.com/chainsawriot/rang/raw/v0.1/man/figures/rang_logo.svg"
 width=44 height=51>
-<a>
 </a>
 <a href="https://github.com/schochastics/rokemon">
 <img src="https://www.mr.schochastics.net/project/rokemon/featured-hex.png"
