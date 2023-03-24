@@ -82,6 +82,10 @@ width=44 height=51>
 <img src="https://github.com/schochastics/webtrackR/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
+<a href="https://github.com/schochastics/webbotparseR">
+<img src="https://github.com/schochastics/webbotparseR/blob/main/man/figures/logo.png"
+width=44 height=51>
+</a>
 <a href="https://github.com/mbojan/rgraph6">
 <img src="https://www.mr.schochastics.net/project/rgraph6/featured-hex.png"
 width=44 height=51>
