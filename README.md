@@ -74,12 +74,20 @@ width=44 height=51>
 <img src="https://www.mr.schochastics.net/project/PSAWR/featured-hex.png"
 width=44 height=51>
 </a>
+<a href="https://github.com/schochastics/Rtumblr">
+<img src="https://github.com/schochastics/Rtumblr/blob/main/man/figures/logo.png"
+width=44 height=51>
+</a>
 <a href="https://github.com/schochastics/netUtils">
 <img src="https://www.mr.schochastics.net/project/netUtils/featured-hex.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/webtrackR">
 <img src="https://github.com/schochastics/webtrackR/blob/main/man/figures/logo.png"
+width=44 height=51>
+</a>
+<a href="https://github.com/schochastics/webBotparseR">
+<img src="https://github.com/schochastics/webBotparseR/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/mbojan/rgraph6">
