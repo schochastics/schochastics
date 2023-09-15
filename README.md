@@ -42,7 +42,7 @@ width=44 height=51>
 <img src="https://www.mr.schochastics.net/project/netrankr/featured-hex.png"
 width=44 height=51>
 </a>
-<a href="https://github.com/schochastics/rtoot">
+<a href="https://github.com/gesistsa/rtoot">
 <img src="https://www.mr.schochastics.net/project/rtoot/featured-hex.png"
 width=44 height=51>
 </a>
