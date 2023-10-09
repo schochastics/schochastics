@@ -99,7 +99,7 @@ width=44 height=51>
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/domainator">
-<img src="https://github.com/schochastics/domainator/man/figures/logo.png"
+<img src="https://github.com/schochastics/domainator/blob/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/mbojan/rgraph6">
