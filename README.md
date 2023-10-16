@@ -119,13 +119,43 @@ width=44 height=51>
 <div align="center">
 <!--<img src="https://github-readme-stats.vercel.app/api?username=schochastics&show_icons=true&theme=merko" alt="Davids GitHub stats">-->
 </div>
-|                           |                                                |
-|---------------------------|------------------------------------------------|
-| [Quarto Academicons](https://github.com/schochastics/academicons)        | Shortcodes to use academicons with Quarto      |
-| [Blackboard revealjs theme](https://github.com/schochastics/quarto-blackboard-theme) | A blackboard style theme for revealjs          |
-| [Sketchy HTML theme](https://github.com/schochastics/quarto-sketchy-html)        | A sketchy theme for HTML documents             |
-| [Social Share Buttons](https://github.com/schochastics/quarto-social-share)      | Add social share buttons to HTML documents     |
-| [Nutshell](https://github.com/schochastics/quarto-nutshell)                  | Include expandable explanations in documents   |
-| [Quartocities](https://github.com/schochastics/quartocities)              | Geocities template for Quarto websites         |
-| [Glossary with nutshell](https://github.com/schochastics/quarto-gloassary)    | Automatic glossary for websites using nutshell |
-| [CV templates](https://github.com/schochastics/quarto)              | CV/Resume templates for Quarto                 |
+
+
+<table>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[Quarto Academicons](https://github.com/schochastics/academicons)</td>
+        <td>Shortcodes to use academicons with Quarto</td>
+    </tr>
+    <tr>
+        <td>[Blackboard revealjs theme](https://github.com/schochastics/quarto-blackboard-theme)</td>
+        <td>A blackboard style theme for revealjs</td>
+    </tr>
+    <tr>
+        <td>[Sketchy HTML theme](https://github.com/schochastics/quarto-sketchy-html)</td>
+        <td>A sketchy theme for HTML documents</td>
+    </tr>
+    <tr>
+        <td>[Social Share Buttons](https://github.com/schochastics/quarto-social-share)</td>
+        <td>Add social share buttons to HTML documents</td>
+    </tr>
+    <tr>
+        <td>[Nutshell](https://github.com/schochastics/quarto-nutshell)</td>
+        <td>Include expandable explanations in documents</td>
+    </tr>
+    <tr>
+        <td>[Quartocities](https://github.com/schochastics/quartocities)</td>
+        <td>Geocities template for Quarto websites</td>
+    </tr>
+    <tr>
+        <td>[Glossary with nutshell](https://github.com/schochastics/quarto-gloassary)</td>
+        <td>Automatic glossary for websites using nutshell</td>
+    </tr>
+    <tr>
+        <td>[CV templates](https://github.com/schochastics/quarto)</td>
+        <td>CV/Resume templates for Quarto</td>
+    </tr>
+</table>
