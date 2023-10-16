@@ -127,35 +127,35 @@ width=44 height=51>
         <td></td>
     </tr>
     <tr>
-        <td>[Quarto Academicons](https://github.com/schochastics/academicons)</td>
+        <td><a href="https://github.com/schochastics/academicons">Quarto Academicons</a></td>
         <td>Shortcodes to use academicons with Quarto</td>
     </tr>
     <tr>
-        <td>[Blackboard revealjs theme](https://github.com/schochastics/quarto-blackboard-theme)</td>
+        <td><a href="https://github.com/schochastics/quarto-blackboard-theme">Blackboard revealjs theme</a></td>
         <td>A blackboard style theme for revealjs</td>
     </tr>
     <tr>
-        <td>[Sketchy HTML theme](https://github.com/schochastics/quarto-sketchy-html)</td>
+        <td><a href="https://github.com/schochastics/quarto-sketchy-html">Sketchy HTML theme</a></td>
         <td>A sketchy theme for HTML documents</td>
     </tr>
     <tr>
-        <td>[Social Share Buttons](https://github.com/schochastics/quarto-social-share)</td>
+        <td><a href="https://github.com/schochastics/quarto-social-share">Social Share Buttons</a></td>
         <td>Add social share buttons to HTML documents</td>
     </tr>
     <tr>
-        <td>[Nutshell](https://github.com/schochastics/quarto-nutshell)</td>
+        <td><a href="https://github.com/schochastics/quarto-nutshell">Nutshell</a></td>
         <td>Include expandable explanations in documents</td>
     </tr>
     <tr>
-        <td>[Quartocities](https://github.com/schochastics/quartocities)</td>
+        <td><a href="https://github.com/schochastics/quartocities">Quartocities</a></td>
         <td>Geocities template for Quarto websites</td>
     </tr>
     <tr>
-        <td>[Glossary with nutshell](https://github.com/schochastics/quarto-gloassary)</td>
+        <td><a href="https://github.com/schochastics/quarto-gloassary">Glossary with nutshell</a></td>
         <td>Automatic glossary for websites using nutshell</td>
     </tr>
     <tr>
-        <td>[CV templates](https://github.com/schochastics/quarto)</td>
+        <td><a href="https://github.com/schochastics/quarto">CV templates</a></td>
         <td>CV/Resume templates for Quarto</td>
     </tr>
 </table>
