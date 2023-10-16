@@ -120,7 +120,7 @@ width=44 height=51>
 <!--<img src="https://github-readme-stats.vercel.app/api?username=schochastics&show_icons=true&theme=merko" alt="Davids GitHub stats">-->
 </div>
 
-
+<div align="center">
 <table>
     <tr>
         <td></td>
@@ -159,3 +159,4 @@ width=44 height=51>
         <td>CV/Resume templates for Quarto</td>
     </tr>
 </table>
+</div>
