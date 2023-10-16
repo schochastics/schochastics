@@ -119,3 +119,13 @@ width=44 height=51>
 <div align="center">
 <!--<img src="https://github-readme-stats.vercel.app/api?username=schochastics&show_icons=true&theme=merko" alt="Davids GitHub stats">-->
 </div>
+|                           |                                                |
+|---------------------------|------------------------------------------------|
+| [Quarto Academicons](https://github.com/schochastics/academicons)        | Shortcodes to use academicons with Quarto      |
+| [Blackboard revealjs theme](https://github.com/schochastics/quarto-blackboard-theme) | A blackboard style theme for revealjs          |
+| [Sketchy HTML theme](https://github.com/schochastics/quarto-sketchy-html)        | A sketchy theme for HTML documents             |
+| [Social Share Buttons](https://github.com/schochastics/quarto-social-share)      | Add social share buttons to HTML documents     |
+| [Nutshell](https://github.com/schochastics/quarto-nutshell)                  | Include expandable explanations in documents   |
+| [Quartocities](https://github.com/schochastics/quartocities)              | Geocities template for Quarto websites         |
+| [Glossary with nutshell](https://github.com/schochastics/quarto-gloassary)    | Automatic glossary for websites using nutshell |
+| [CV templates](https://github.com/schochastics/quarto)              | CV/Resume templates for Quarto                 |
