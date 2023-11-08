@@ -119,7 +119,9 @@ width=44 height=51>
 <div align="center">
 <!--<img src="https://github-readme-stats.vercel.app/api?username=schochastics&show_icons=true&theme=merko" alt="Davids GitHub stats">-->
 </div>
-
+<h3 style="font-weight:normal" align="center">
+  Quarto
+</h3>
 <div align="center">
 <table>
     <tr>
