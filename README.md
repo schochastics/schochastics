@@ -94,8 +94,8 @@ width=44 height=51>
 <img src="https://github.com/schochastics/stabilityAI/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
-<a href="https://github.com/schochastics/adaR">
-<img src="https://github.com/schochastics/adaR/blob/main/man/figures/logo.png"
+<a href="https://github.com/gesistsa/adaR">
+<img src="https://github.com/gesistsa/adaR/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/domainator">
@@ -106,8 +106,8 @@ width=44 height=51>
 <img src="https://www.mr.schochastics.net/project/rgraph6/featured-hex.png"
 width=44 height=51>
 </a>
-<a href="https://github.com/chainsawriot/rang">
-<img src="https://github.com/chainsawriot/rang/raw/v0.1/man/figures/rang_logo.svg"
+<a href="https://github.com/gesistsa/rang">
+<img src="https://github.com/gesistsa/rang/raw/v0.1/man/figures/rang_logo.svg"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/rokemon">
