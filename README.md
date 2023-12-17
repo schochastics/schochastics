@@ -129,8 +129,12 @@ width=44 height=51>
         <td></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/schochastics/academicons">Quarto Academicons</a></td>
+        <td><a href="https://github.com/schochastics/academicons">Academicons</a></td>
         <td>Shortcodes to use academicons with Quarto</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/schochastics/devicons">Devicons</a></td>
+        <td>Shortcodes to use devicons with Quarto</td>
     </tr>
     <tr>
         <td><a href="https://github.com/schochastics/quarto-blackboard-theme">Blackboard revealjs theme</a></td>
