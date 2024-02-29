@@ -110,8 +110,8 @@ width=44 height=51>
 <img src="https://github.com/gesistsa/rang/raw/v0.1/man/figures/rang_logo.svg"
 width=44 height=51>
 </a>
-<a href="https://github.com/schochastics/chronos">
-<img src="https://github.com/schochastics/chronos/blob/main/man/figures/logo.png"
+<a href="https://github.com/schochastics/timeless">
+<img src="https://github.com/schochastics/timeless/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/dialrs">
