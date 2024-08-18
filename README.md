@@ -118,6 +118,10 @@ width=44 height=51>
 <img src="https://github.com/schochastics/dialrs/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
+<a href="https://github.com/schochastics/shortuuid">
+<img src="https://github.com/schochastics/shortuuid/blob/main/man/figures/logo.png"
+width=44 height=51>
+</a>
 <a href="https://github.com/schochastics/rokemon">
 <img src="https://www.mr.schochastics.net/project/rokemon/featured-hex.png"
 width=44 height=51>
