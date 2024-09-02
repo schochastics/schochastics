@@ -169,7 +169,7 @@ width=44 height=51>
         <td>Geocities template for Quarto websites</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/schochastics/quarto-gloassary">Glossary with nutshell</a></td>
+        <td><a href="https://github.com/schochastics/quarto-glossary">Glossary with nutshell</a></td>
         <td>Automatic glossary for websites using nutshell</td>
     </tr>
     <tr>
