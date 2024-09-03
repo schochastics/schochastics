@@ -82,8 +82,8 @@ width=44 height=51>
 <img src="https://www.mr.schochastics.net/project/netUtils/featured-hex.png"
 width=44 height=51>
 </a>
-<a href="https://github.com/schochastics/webtrackR">
-<img src="https://github.com/schochastics/webtrackR/blob/main/man/figures/logo.png"
+<a href="https://github.com/gesistsa/webtrackR">
+<img src="https://github.com/gesistsa/webtrackR/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/webbotparseR">
