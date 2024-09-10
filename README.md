@@ -47,7 +47,7 @@ width=44 height=51>
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/snahelper">
-<img src="https://github.com/schochastics/snahelper/blob/main/man/figures/logo.png"
+<img src="https://github.com/schochastics/snahelper/blob/master/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/signnet">
@@ -55,11 +55,11 @@ width=44 height=51>
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/edgebundle">
-<img src="https://www.mr.schochastics.net/project/edgebundle/featured-hex.png"
+<img src="https://github.com/schochastics/edgebundle/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/roughnet">
-<img src="https://github.com/schochastics/roughnet/blob/main/man/figures/logo.png"
+<img src="https://github.com/schochastics/roughnet/blob/master/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/roughsf">
