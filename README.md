@@ -35,23 +35,23 @@ My main dev work is writing <a href="https://www.r-project.org/about.html">R</a>
 
 <div align="center">
 <a href="https://github.com/schochastics/graphlayouts">
-<img src="https://www.mr.schochastics.net/project/graphlayouts/featured-hex.png"
+<img src="https://github.com/schochastics/graphlayouts/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/netrankr">
-<img src="https://www.mr.schochastics.net/project/netrankr/featured-hex.png"
+<img src="https://github.com/schochastics/netrankr/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/gesistsa/rtoot">
-<img src="https://www.mr.schochastics.net/project/rtoot/featured-hex.png"
+<img src="https://github.com/gesistsa/rtoot/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/snahelper">
-<img src="https://www.mr.schochastics.net/project/snahelper/featured-hex.png"
+<img src="https://github.com/schochastics/snahelper/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/signnet">
-<img src="https://www.mr.schochastics.net/project/signnet/featured-hex.png"
+<img src="https://github.com/schochastics/signnet/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/edgebundle">
@@ -59,19 +59,19 @@ width=44 height=51>
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/roughnet">
-<img src="https://www.mr.schochastics.net/project/roughnet/featured-hex.png"
+<img src="https://github.com/schochastics/roughnet/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/roughsf">
-<img src="https://www.mr.schochastics.net/project/roughsf/featured-hex.png"
+<img src="https://github.com/schochastics/roughsf/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/networkdata">
-<img src="https://www.mr.schochastics.net/project/networkdata/featured-hex.png"
+<img src="https://github.com/schochastics/networkdata/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/PSAWR">
-<img src="https://www.mr.schochastics.net/project/PSAWR/featured-hex.png"
+<img src="https://github.com/schochastics/PSAWR/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/Rtumblr">
@@ -79,7 +79,7 @@ width=44 height=51>
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/netUtils">
-<img src="https://www.mr.schochastics.net/project/netUtils/featured-hex.png"
+<img src="https://github.com/schochastics/netUtils/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/gesistsa/webtrackR">
@@ -123,7 +123,7 @@ width=44 height=51>
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/rokemon">
-<img src="https://www.mr.schochastics.net/project/rokemon/featured-hex.png"
+<img src="https://github.com/schochastics/rokemon/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 </div>
