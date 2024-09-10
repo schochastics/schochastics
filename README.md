@@ -86,8 +86,8 @@ width=44 height=51>
 <img src="https://github.com/gesistsa/webtrackR/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
-<a href="https://github.com/schochastics/webbotparseR">
-<img src="https://github.com/schochastics/webbotparseR/blob/main/man/figures/logo.png"
+<a href="https://github.com/gesistsa/webbotparseR">
+<img src="https://github.com/gesistsa/webbotparseR/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/stabilityAI">
