@@ -103,7 +103,7 @@ width=44 height=51>
 width=44 height=51>
 </a>
 <a href="https://github.com/mbojan/rgraph6">
-<img src="https://www.mr.schochastics.net/project/rgraph6/featured-hex.png"
+<img src="https://github.com/mbojan/rgraph6/blob/master/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/gesistsa/rang">
@@ -123,7 +123,7 @@ width=44 height=51>
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/rokemon">
-<img src="https://github.com/schochastics/rokemon/blob/main/man/figures/logo.png"
+<img src="https://github.com/schochastics/rokemon/blob/master/man/figures/logo.png"
 width=44 height=51>
 </a>
 </div>
