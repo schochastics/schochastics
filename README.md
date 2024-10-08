@@ -33,6 +33,8 @@ I am the Team Lead for "Transparent Social Anlytics" in the Department for Compu
 My main dev work is writing <a href="https://www.r-project.org/about.html">R</a> packages and extensions for <a href="https://quarto.org">Quarto</a>
 </p>
 
+[![:name status badge](https://schochastics.r-universe.dev/badges/:name)](https://schochastics.r-universe.dev/) [![:packages status badge](https://schochastics.r-universe.dev/badges/:packages)](https://schochastics.r-universe.dev/packages)
+
 <div align="center">
 <a href="https://github.com/schochastics/graphlayouts">
 <img src="https://github.com/schochastics/graphlayouts/blob/main/man/figures/logo.png"
