@@ -120,6 +120,10 @@ width=44 height=51>
 <img src="https://github.com/schochastics/oaqc/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
+<a href="https://github.com/schochastics/paperwizard">
+<img src="https://github.com/schochastics/paperwizard/blob/main/man/figures/logo.png"
+width=44 height=51>
+</a>
 <a href="https://github.com/schochastics/dialrs">
 <img src="https://github.com/schochastics/dialrs/blob/main/man/figures/logo.png"
 width=44 height=51>
