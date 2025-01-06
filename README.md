@@ -27,7 +27,7 @@ height=40 width=40 alt="scholar" border=0>
 <br>
 
 <p align="center">
-I am the Team Lead for "Transparent Social Anlytics" in the Department for Computational Social Science at <a href="https://gesis.org">GESIS</a>
+I am a Data Scientist/DevOps Engineer at <a href="https://cynkra.com">cynkra</a>
 </p>
 <p align="center">
 My main dev work is writing <a href="https://www.r-project.org/about.html">R</a> packages and extensions for <a href="https://quarto.org">Quarto</a>
