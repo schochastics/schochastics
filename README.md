@@ -13,11 +13,6 @@ height=40 width=40 alt="home" border=0>
 src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-mastodon-is-an-online-self-hosted-social-media-and-social-networking-service-logo-color-tal-revivo.png"
 height=40 width=40 alt="mastodon" border=0>
 </a>
-<a href="https://twitter.com/schochastics">
-<img
-src="https://img.icons8.com/color/512/twitter.png"
-height=40 width=40 alt="twitter" border=0>
-</a>
 <a href="https://scholar.google.com/citations?user=MFlgHdcAAAAJ&hl">
 <img
 src="https://img.icons8.com/color/512/google-scholar--v3.png"
