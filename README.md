@@ -185,5 +185,9 @@ width=44 height=51>
         <td><a href="https://github.com/schochastics/quarto-cv">CV templates</a></td>
         <td>CV/Resume templates for Quarto</td>
     </tr>
+    <tr>
+        <td><a href="[https://github.com/schochastics/quarto-cv](https://github.com/schochastics/quarto-url-peek)">url peek</a></td>
+        <td>Domain preview in Quarto HTML documents </td>
+    </tr>
 </table>
 </div>
