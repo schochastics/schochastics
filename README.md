@@ -56,7 +56,7 @@ width=44 height=51>
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/roughnet">
-<img src="https://github.com/schochastics/roughnet/blob/master/man/figures/logo.png"
+<img src="https://github.com/schochastics/roughnet/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/roughsf">
@@ -64,7 +64,7 @@ width=44 height=51>
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/networkdata">
-<img src="https://github.com/schochastics/networkdata/blob/master/man/figures/logo.png"
+<img src="https://github.com/schochastics/networkdata/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/PSAWR">
@@ -76,7 +76,7 @@ width=44 height=51>
 width=44 height=51>
 </a>
 <a href="https://github.com/schochastics/netUtils">
-<img src="https://github.com/schochastics/netUtils/blob/master/man/figures/logo.png"
+<img src="https://github.com/schochastics/netUtils/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
 <a href="https://github.com/gesistsa/webtrackR">
