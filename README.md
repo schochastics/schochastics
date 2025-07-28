@@ -131,6 +131,10 @@ width=44 height=51>
 <img src="https://github.com/cynkra/rchroma/blob/main/man/figures/logo.png"
 width=44 height=51>
 </a>
+<a href="https://github.com/schochastics/dexid">
+<img src="https://github.com/schochastics/dexid/blob/main/man/figures/logo.png"
+width=44 height=51>
+</a>
 <a href="https://github.com/schochastics/rokemon">
 <img src="https://github.com/schochastics/rokemon/blob/master/man/figures/logo.png"
 width=44 height=51>
